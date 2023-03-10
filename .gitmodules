@@ -1,0 +1,3 @@
+[submodule "clinic-telegram-bot"]
+	path = clinic-telegram-bot
+	url = https://github.com/hemelo/clinic-telegram-bot.git
