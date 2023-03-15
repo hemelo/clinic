@@ -1,3 +1,7 @@
 [submodule "clinic-telegram-bot"]
 	path = clinic-telegram-bot
 	url = https://github.com/hemelo/clinic-telegram-bot.git
+
+[submodule "clinic-hr"]
+	path = clinic-hr
+	url = https://github.com/hemelo/clinic-hr.git
